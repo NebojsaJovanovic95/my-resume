@@ -12,9 +12,10 @@
 
 ## Technical Skills
 **Engineering & Software:** Systems design, automation, real-time data systems  
-**Languages:** C, C++, Python, JavaScript, C#, SQL  
-**Frameworks / Tools:** Flask, Django, Aiohttp, Angular, PyTorch, CUDA, Docker, Git, Azure DevOps  
-**Databases:** MongoDB, SQL  
+**Languages:** C, C++, Python, Go, JavaScript, C#, Shell, SQL  
+**Frameworks / Tools:** Flask, Django, Aiohttp, Angular, PyTorch, CUDA
+**Tools & technologies: Linux, Docker, Podman, K8S, Nvim, Git, Azure DevOps  
+**Databases:** Postgresql, MongoDB, SQLite 
 **Networking:** HTTP, TCP/IP  
 **Cloud:** Azure ML, Azure DevOps  
 **Core Competencies:** Full-stack engineering, machine learning integration, control systems, edge devices
@@ -43,7 +44,7 @@
 ## Projects
 **Energy Plant Optimization Tool (Hatch)** – Implemented modules for data ingestion and performance analysis in C++.  
 **Custom C++ Framework (Personal)** – Built an HTTP server and lightweight DB engine to understand systems-level architecture.  
-**Computer Vision Mining Project (Hatch)** – Deployed camera-based inspection and analysis tools powered by PyTorch.
+**Computer Vision Mining Project (Hatch)** – Deployed camera-based inspection and analysis tools powered by Yolo.
 
 ---
 

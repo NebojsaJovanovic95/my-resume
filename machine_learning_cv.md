@@ -11,10 +11,11 @@ Engineer and software developer passionate about applying **machine learning** a
 ---
 
 ## Technical Skills
-**Languages:** Python, C++, C#, JavaScript, SQL  
-**ML / AI Tools:** PyTorch, CUDA, Azure ML, OpenCV  
-**Frameworks / Tools:** Flask, Django, Aiohttp, Angular, Docker, Git, Azure DevOps  
-**Databases:** MongoDB, SQL  
+**Languages:** Python, C, C++, Go, C#, JavaScript, Shell, SQL  
+**ML / AI Tools:** PyTorch, CUDA, Azure ML, OpenCV, Yolo
+**Frameworks / Tools:** Flask, Django, Aiohttp, Angular, React 
+**Tools:** Docker, Podman, K8S, Linux, ssh, nvim, Git, Azure DevOps  
+**Databases:** Postgresql, MongoDB, SQLite  
 **Networking:** HTTP, TCP/IP  
 **Core Strengths:** ML model deployment, computer vision, MLOps, edge computing, software integration
 
@@ -41,6 +42,8 @@ Engineer and software developer passionate about applying **machine learning** a
 ---
 
 ## Projects
+
+**Computer Vision Platform on Edge Device [(Personal Project)](https://github.com/NebojsaJovanovic95/edge-device.git)** - Fully on-prem scalable infrastructure for building computer vision applications using Yolo. Adding and managing RTSP cameras, enables querying data for building business logic derived applications.
 **Computer Vision for Mining** – Designed an object detection pipeline using PyTorch and Azure ML; deployed to edge devices.  
 **Custom C++ Framework** – Developed a simple C++ HTTP server and database to explore performance and design trade-offs.  
 **ML Experiments** – Built and trained models for anomaly detection and image classification using PyTorch and CUDA.

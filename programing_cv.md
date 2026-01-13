@@ -11,11 +11,12 @@ Versatile **Software Engineer** with a background in mechanical engineering and 
 ---
 
 ## Technical Skills
-**Languages:** C, C++, Python, JavaScript, C#, SQL  
-**Frameworks / Tools:** Flask, Django, Aiohttp, Angular, PyTorch, CUDA, Docker, Git, Azure DevOps  
-**Databases:** MongoDB, SQL, custom C++ database project  
+**Languages:** C, C++, Python, Go, JavaScript, C#, Shell, SQL  
+**Frameworks:** Flask, Django, Aiohttp, Angular, React, PyTorch 
+**Tools:** CUDA, Linux, SSH, Nvim, Docker, Podman, Redis, Minio, K8S, Git
+**Databases:** Postgresql, MongoDB, SQL, custom C++ database project  
 **Networking:** HTTP, TCP/IP  
-**Cloud / DevOps:** Azure ML, Azure DevOps, Docker  
+**Cloud / DevOps:** Azure ML, Azure DevOps, Edge
 **Specialties:** Full-stack development, systems programming, computer vision, edge computing  
 
 ---
@@ -39,11 +40,11 @@ Versatile **Software Engineer** with a background in mechanical engineering and 
 ---
 
 ## Projects
-**C++ Web Framework & Database (Personal Project)** – Built a minimalist HTTP server, routing engine, and storage layer in C++.  
-**Edge Device Platform** – Implemented IoT-style device software for energy monitoring and ML model inference at the edge.  
+**Computer Vision Platform on Edge Device [(Personal Project)](https://github.com/NebojsaJovanovic95/edge-device.git)** - Fully on-prem scalable infrastructure for building computer vision applications using Yolo. Adding and managing RTSP cameras, enables querying data for building business logic derived applications.
+**C++ Web Framework & Database [(Personal Project)](https://github.com/NebojsaJovanovic95/cpp-net-experiments.git)** – Built a minimalist HTTP server, routing engine, and storage layer in C++.  
 **Computer Vision Pipeline** – Deployed PyTorch models with Flask APIs for object detection and anomaly detection.
 
 ---
 
 ## Interests
-Systems programming, distributed computing, edge AI, and open-source frameworks.
+Systems programming, distributed computing, edge AI, open-source.
