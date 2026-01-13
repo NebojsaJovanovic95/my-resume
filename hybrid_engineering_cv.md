@@ -42,6 +42,9 @@
 ---
 
 ## Projects
+**Computer Vision Platform on Edge Device [(Personal Project)](https://github.com/NebojsaJovanovic95/edge-device.git)** 
+- Fully on-prem scalable infrastructure for building computer vision applications using Yolo
+- Adding and managing RTSP cameras, enables querying data for building business logic derived applications.
 **Energy Plant Optimization Tool (Hatch)** – Implemented modules for data ingestion and performance analysis in C++.  
 **Custom C++ Framework (Personal)** – Built an HTTP server and lightweight DB engine to understand systems-level architecture.  
 **Computer Vision Mining Project (Hatch)** – Deployed camera-based inspection and analysis tools powered by Yolo.
