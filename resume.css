@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+    margin: 1in;
+    color: #1a1a1a;
+    line-height: 1.25;
+}
+/* Make header info inline and aligned */
+header, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+h1#nebojsa-jovanovic {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 1em;
+    vertical-align: middle;
+}
+
+p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+
+/* Headers */
+h1 { font-size: 20px; margin-bottom: 0.2em; }
+h2 { font-size: 16px; border-bottom: 1px solid #ccc; padding-bottom: 0.2em; margin-top: 1em; }
+
+/* Links */
+a { color: #1a73e8; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Sections */
+section { margin-bottom: 0.4em; }
+
+/* Lists */
+ul, ol { margin: 0.2em 0 0.2em 1.2em; }
+
+/* Single-page tweaks */
+body.single-page { font-size: 10pt; margin: 0.2in; }
+
+/* Multi-page tweaks */
+body.multi-page { font-size: 11pt; margin: 1in; }
+
