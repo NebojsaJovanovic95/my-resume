@@ -28,6 +28,7 @@ $(PDF): $(HTML)
 	$(CHROME) \
 		--headless \
 		--disable-gpu \
+		--virtual-time-budget=5000 \
 		--print-to-pdf=$(PDF) \
 		$(HTML)
 
