@@ -1,3 +1,8 @@
+---
+title: "Hybrid Engineering CV"
+author: "Nebojsa Jovanovic"
+date: ""
+---
 # Nebojsa Jovanovic
 📍 Toronto, ON  
 ✉️ nebojsa.jovanovic@example.com | ☎️ [+16478966495]  

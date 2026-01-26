@@ -41,8 +41,5 @@ section { margin-bottom: 0.4em; }
 /* Lists */
 ul, ol { margin: 0.2em 0 0.2em 1.2em; }
 
-/* Single-page tweaks */
-body.single-page { font-size: 10pt; margin: 0.2in; }
+body{ font-size: 10pt; margin: 0.2in; }
 
-/* Multi-page tweaks */
-body.multi-page { font-size: 11pt; margin: 1in; }
