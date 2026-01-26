@@ -27,10 +27,6 @@ $(HTML): $(MD) $(CSS) $(HEAD)
 $(PDF): $(HTML)
 	$(CHROME) \
 		--headless \
-		--disable-gpu \
-		--no-sandbox \
-		--no-header-footer \
-		--virtual-time-budget=5000 \
 		--print-to-pdf=$(PDF) \
 		$(HTML)
 

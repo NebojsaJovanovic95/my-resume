@@ -1,8 +1,3 @@
----
-title: "Hybrid Engineering CV"
-author: "Nebojsa Jovanovic"
-date: ""
----
 # Nebojsa Jovanovic
 📍 Toronto, ON  
 ✉️ nebojsa.jovanovic@example.com | ☎️ [+16478966495]  
@@ -18,9 +13,9 @@ date: ""
 ## Technical Skills
 **Engineering & Software:** Systems design, automation, real-time data systems  
 **Languages:** C, C++, Python, Go, JavaScript, C#, Shell, SQL  
-**Frameworks / Tools:** Flask, Django, Aiohttp, Angular, PyTorch, CUDA
-**Tools & technologies: Linux, Docker, Podman, K8S, Nvim, Git, Azure DevOps  
-**Databases:** Postgresql, MongoDB, SQLite 
+**Frameworks / Tools:** Flask, Django, Aiohttp, Angular, PyTorch, CUDA  
+**Tools & technologies**: Linux, Docker, Podman, K8S, Nvim, Git, Azure DevOps  
+**Databases:** Postgresql, MongoDB, SQLite  
 **Networking:** HTTP, TCP/IP  
 **Cloud:** Azure ML, Azure DevOps  
 **Core Competencies:** Full-stack engineering, machine learning integration, control systems, edge devices
