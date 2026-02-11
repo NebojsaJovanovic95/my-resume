@@ -42,9 +42,7 @@ Started coding at the age of 9 and grew up being a problem solver. Switched into
 ---
 
 ## Projects
-**Computer Vision Platform on Edge Device [(Personal Project)](https://github.com/NebojsaJovanovic95/edge-device.git)** 
-- Fully on-prem scalable infrastructure for building computer vision applications using Yolo
-- Adding and managing RTSP cameras, enables querying data for building business logic derived applications.
+**Computer Vision Platform on Edge Device (Personal Project)** – Fully on‑prem, scalable infrastructure for deploying YOLO‑based computer vision applications on edge devices. Supports adding and managing RTSP cameras and querying detections so teams can build higher‑level, business‑logic‑driven applications such as alerts, analytics, and operational dashboards.
 **Energy Plant Optimization Tool (Hatch)** – Implemented modules for data ingestion and performance analysis in C++.  
 **Custom C++ Framework (Personal)** – Built an HTTP server and lightweight DB engine to understand systems-level architecture.  
 **Computer Vision Mining Project (Hatch)** – Deployed camera-based inspection and analysis tools powered by Yolo.
