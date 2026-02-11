@@ -6,7 +6,7 @@
 ---
 
 ## Professional Summary
-**Mechanical Engineer and Software Developer** with over 5 years of experience at Hatch developing technology solutions for industrial and energy systems. Combines strong analytical and engineering principles with modern software development skills across **C++**, **Python**, and cloud platforms. Experienced in designing control systems, automation tools, and intelligent data-driven applications for large-scale infrastructure projects.
+Started coding at the age of 9 and grew up being a problem solver. Switched into Mechanical to build broad engineering knowledge. Still a software engineer at heart.
 
 ---
 
