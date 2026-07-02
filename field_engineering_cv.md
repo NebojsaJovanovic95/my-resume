@@ -6,7 +6,7 @@
 ---
 
 ## Professional Summary
-Grew up in Serbia completing best Math high school in Europe and winning a prestigious scholarship. After a full ride scholarship from Hatch at UofT Engineering, I worked at Hatch as an Intermediate Mechanical Engineer. Now looking for new opportunities to work on site and hone my skills.
+After a full ride scholarship from Hatch at UofT Engineering, I worked at Hatch as an Intermediate Mechanical Engineer. During this time I worked on site as a commissioning engineer, as a package engineer and as a software developer. Now looking for new opportunities to work on site and hone my skills.
 
 ---
 
