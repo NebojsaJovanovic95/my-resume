@@ -1,6 +1,6 @@
 # Nebojsa Jovanovic
 📍 Toronto, ON  
-✉️ nebojsa.jovanovic@example.com | ☎️ [+16478966495]  
+✉️ nebojsajovanovic95@gmail.com | ☎️ [+16478966495]  
 [LinkedIn](https://www.linkedin.com/in/nebojsa-jovanovic-9928306a/) | [GitHub](https://github.com/NebojsaJovanovic95)
 
 ---
