@@ -50,8 +50,11 @@ Jansen Commissioning - On site work as Handover coordinator within HBJV Commissi
   - Worked as part of an Azure Devops driven team
   - Migrated Engine from old oracles container library to modern C++ standard library
 **Computer Vision Platform on Edge Device (Personal Project)** – Fully on‑prem, scalable infrastructure for deploying YOLO‑based computer vision applications on edge devices. Supports adding and managing RTSP cameras and querying detections so teams can build higher‑level, business‑logic‑driven applications such as alerts, analytics, and operational dashboards.
-**Custom C++ Framework (Personal)** – Built an HTTP server and lightweight DB engine to understand systems-level architecture.  
+LiTui - Terminal based chess played using move notations - Built for fun and learning technologies like Go, TUI, Integrating with online chess services like Lichess.com
 **Computer Vision Mining Project (Hatch)** – Deployed camera-based inspection and analysis tools powered by Yolo.
+**Custom C++ Framework (Personal)** – Built an HTTP server and lightweight DB engine to understand systems-level architecture.  
+Automated Script that formatted this resume from a markdown file to a nicely formatted PDF
+
 
 ---
 
@@ -60,6 +63,12 @@ Jansen Commissioning - On site work as Handover coordinator within HBJV Commissi
 Minor in Robotics and Mechatronics
 *University of Toronto, Toronto, ON (2020)*
 Full ride scholarship recipient from Hatch - Hatch Engineering Entrance scholarship
+
+### Continuous Education
+Online programming courses from Harvard - Completed CS50 courses: CS50X, CS50Python, CS50Web, CS50SQL
+Online programming mini master Edx - Data Structures and Algorithms
+Online programming RPG Boot.dev - Gamified programming lessons with guided projects and open ended projects
+Nand2Tetris - Online course teaching you computer architecture from NAND gate to building a working computer, then writing code up from machine code instruction through assembly, then a custom programming language you develop, and finally make your own Operating System. You later use this operating system to build Tetris and in the end you have to make your own app on this.
 
 ---
 ## Interests
