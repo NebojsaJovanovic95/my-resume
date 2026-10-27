@@ -85,10 +85,19 @@
 - Commissioning Manager - Accelerator - R-156258 - Process Completed - July 11, 2026
 - Software and Cloud Engineer (Java/AWS) - R-150561 - Process Completed - July 11, 2026
 - Senior Mechanical Engineer - R-157707 - Process Completed - July 11, 2026
+- Mechanical Engineering Analyst - R-166363 - In Process - October 15, 2026
+- Senior Mechanical Engineer - R-161702 - In Process - October 15, 2026
+- Mechanical Engineer - R-166319 - In Process - October 15, 2026
+- Intermediate Mechanical Engineering - R-161666 - In Process - October 15, 2026
+- Senior Mechanical Engineer - R-161696 - In Process - October 15, 2026
+- Intermediate Mechanical Engineer - R-166707 - In Process - October 26, 2026
+- Computer Systems Engineer - R-149806 - In Process - October 26, 2026
 
 ---
 
 # WSP
+- Intermediate Conveyance Engineer - Civil Engineering - Thornhill, ON, Canada and 3 more - Status - Under Consideration - WSP 91460 Applied on 10/27/2026
+- Senior Mechanical Engineer, Buildings - Thornhill, ON, Canada - Status - Under Consideration - WSP 98279 Applied on 10/27/2026
 - Mechanical Field Engineer - St. John's, NL, Canada and 20 more - Status Under Consideration - WSP 91190 Applied on 09/16/2026
 - Senior Mechanical Engineer, Resources - Sudbury, ON, Canada - Status Under Consideration - WSP 91077 Applied on 08/16/2026
 - Principal - Mechanical Engineer - Riyadh, Riyadh, Saudi Arabia - Status Under Consideration - WSP 90484 Applied on 08/12/2026
@@ -207,3 +216,124 @@ Status Not Retained - Barrick Mining Corporation 239008 - Applied on 07/11/2026
 
 ---
 
+# Candu
+- mechanical engineer - Posted on June 29, 2026 by Employer detailsCandu Energy Inc. - 2251 Speakman DriveMississauga, ON L5K 1B2
+
+---
+
+# Mecka
+- Mechanical engineer - Oct 9 2026
+
+---
+
+# WalterFedy
+- Mechanical engineer - ENG3 tole - AEC Development or BSN Architects division of WF group - Oct 9 2026
+
+---
+
+# MottMackdonald
+- Mechanical engineer - Oct 9 2026
+
+---
+
+# TetraTech
+- Intermediate Mechanical Engineer - Hydro - Canada-British Columbia-Vancouver, Canada-Ontario-Mississauga, Canada-Manitoba-Winnipeg More... - Job Number: 70500000973 - Job Status: Active (Accepting Job Submissions) - Submission Status: Under Review – Updated: Oct 17, 2026 - View/Edit SubmissionWithdraw
+- Intermediate Mechanical Engineer - Hydro - Canada-Ontario-Mississauga, Canada-Manitoba-Winnipeg, Canada-Alberta-Calgary More... - Job Number: 70500000972 - Job Status: Active (Accepting Job Submissions) - Submission Status: Under Review – Updated: Oct 17, 2026 - View/Edit SubmissionWithdraw
+- Intermediate / Senior Project Engineer - Hydro - Canada-Ontario-Mississauga, Canada-Manitoba-Winnipeg, Canada-Alberta-Calgary More... - Job Number: 70500000974 - Job Status: Active (Accepting Job Submissions) - Submission Status: Under Review – Updated: Oct 17, 2026 - View/Edit SubmissionWithdraw
+- Intermediate Mechanical Engineer - Canada-Alberta-Calgary, Canada-Ontario-Mississauga, Canada-Manitoba-Winnipeg More... - Job Number: 70500000968 - Job Status: Inactive (No Longer Accepting Job Submissions) - Submission Status: Not selected – Updated: Oct 1, 2026 - View Submission
+- Intermediate Mechanical Engineer - Canada-Ontario-Pickering - Job Number: 71700000048 - Job Status: Inactive (No Longer Accepting Job Submissions) - Submission Status: Not selected – Updated: Sep 30, 2026
+- NDY Senior Mechanical Engineering Lead, Toronto - Canada-Ontario - Job Number: 71800000013 - Job Status: Active (Accepting Job Submissions) - Submission Status: Under Review – Updated: Sep 16, 2026
+
+---
+
+# HDR
+- Building Engineering Services Regional Business Group Director - Northeast - Full-time - United States-New Jersey-Pennington, Canada-Ontario-Toronto, United States-Massachusetts-Boston More... - Job Number: 194817 - Job Status: Open: Applicants being considered. (Position may not be found on our website.) - Submission Status: Thank you for submitting your resume, it is under review – Updated: Oct 17, 2026 - View/Edit Submission|View Email Messages|Withdraw
+- Mechanical BIM Designer - Full-time - Canada-Ontario-Toronto - Job Number: 196605 - Job Status: Open: Applicants being considered. (Position may not be found on our website.) - Submission Status: Your resume has been reviewed by the recruiter – Updated: Oct 14, 2026 - View/Edit Submission|View Email Messages|Withdraw
+- Senior Mechanical Engineer - Full-time - Canada-Ontario-Toronto - Job Number: 193775 - Job Status: Open: Applicants being considered. (Position may not be found on our website.) - Submission Status: Thank you for submitting your resume, it is under review – Updated: Oct 5, 2026 - View/Edit Submission|View Email Messages|Withdraw
+
+---
+
+# Indeed
+
+- Intermediate - Mechanical Engineer - TWD Technologies Ltd. - Toronto, ON - Applied Oct 27, 2026 on Indeed
+- Capital/ Special Projects Manager - Wei Wai Kum Business Group - Campbell River, BC - Applied Oct 27, 2026 on Indeed
+- Senior Mechanical Engineer (P.Eng) - MVA Consulting - Calgary, AB - Applied Oct 27, 2026 on Indeed
+- Instrumentation Engineer/Technologist - Thermo Design Engineering LTD. - Edmonton, AB - Applied Oct 27, 2026 on Indeed
+- Engineering Supervisor - Nasittuq Corporation - Ottawa, ON - Applied Oct 26, 2026 on Indeed
+- Senior Pipeline Engineer - Humming Bee Inc. - Calgary, AB - Applied Oct 26, 2026 on Indeed
+- Automation & Controls Engineer - System Integrator - Jordan Engineering Inc - St. Catharines, ON - Applied Oct 26, 2026 on Indeed
+- Mechanical Engineer - DSR Systems Inc. - Greater Toronto Area, ON - Applied Oct 26, 2026 on Indeed
+- Project Engineer - NAPIER-REID LIMITED - Aurora, ON - Applied Oct 26, 2026 on Indeed
+- Manufacturing Engineer - Pacific Energy Fireplaces Ltd - Duncan, BC - Applied Oct 26, 2026 on Indeed
+- Ingénieur mécanique - Conception et développement de produits - Delta Prévention - Brossard, QC - Applied Oct 26, 2026 on Indeed
+- Building Automation Systems Project Manager (BAS) - Voyager Controls - Mississauga, ON - Applied Oct 26, 2026 on Indeed
+- Chief Engineerjob description opens in a new window - Hullo Ferries - Nanaimo, BC - Applied Oct 26, 2026 on Indeed
+- Project Manager - South East Construction L.P. - Esterhazy, SK - Applied Oct 26, 2026 on Indeed
+- Project Manager, Commercial Construction - Bachly Construction - Bolton, ON - Applied Oct 23, 2026 on Indeed
+- DataAnnotation - Applied - Mechanical Engineer - AI Trainer- DataAnnotation - Oakville, ON - Applied Oct 23, 2026 on Indeed
+- Mechanical Engineer - Mpac - Mississauga, ON - Applied Oct 23, 2026 on Indeed
+- 3rd Class Marine Engineer - LeeWay Marine - Dartmouth, NS - Applied Oct 23, 2026 on Indeed
+- Controls Engineer - Babcock & Wilcox FPS Inc. - Dartmouth, NS - Applied Oct 23, 2026 on Indeed
+- Project Manager - North American Construction Group Inc. - Alberta - Applied Oct 23, 2026 on Indeed
+- Mechanical Engineer - Turbine Systems & Aerodynamics - Aurea Technologies - Dartmouth, NS - Applied Oct 23, 2026 on Indeed
+- Structural Engineer – Innovation Centre (P.Eng.) - Marcon Metalfab
+Delta, BC - Applied Oct 23, 2026 on Indeed
+- Project Manager - infraMOD - Edmonton, AB - Applied Oct 23, 2026 on Indeed
+- Mechanical Engineer - AI Trainer - DataAnnotation - Vaughan, ON - Applied Oct 23, 2026 on Indeed
+- Project Manager - Cyntech Group - Calgary, AB - Applied Oct 23, 2026 on Indeed
+- Project Engineer (Mechanical) - EMBE Consulting Engineers Inc - Calgary, AB - Applied Oct 23, 2026 on Indeed
+- Project Engineer (Water & Wastewater) - Water Technologies - Oakville, ON - Applied on Indeed on 22 Oct, 2026
+- Project Manager - Engineered Systems - Flowpoint Environmental Systems - Morinville, AB - Applied on Indeed on 22 Oct, 2026
+- Project Engineer - Ensign Energy Services Inc. - Nisku, AB - Applied on Indeed on 22 Oct, 2026
+- Mechanical Engineer - Product Design & Manufacturing - Aurea Technologies - Dartmouth, NS - Applied on Indeed on 22 Oct, 2026
+- Project Manager - Bridges - Capitol Steel Corp. - Winnipeg, MB - Applied on Indeed on 22 Oct, 2026
+- Quality Assurance Engineer - Sirius Instrumentation and Controls Inc. - Edmonton, AB - Applied on Indeed on 21 Oct, 2026
+- Maintenance Reliability Engineer (Fort Hills) - North American Construction Group Inc. - Alberta - Applied on Indeed on 21 Oct, 2026
+- Senior Project Engineer - Thermo Design Engineering Ltd - Edmonton, AB - Applied on Indeed on 21 Oct, 2026
+- Senior Distribution Engineer - Iconic Power Systems Inc. - Calgary, AB - Applied on Indeed on 21 Oct, 2026
+- Technical Engineering Manager - PET thermoforming & Sheet Extrusion - Krystalite GT Inc. - Fergus, ON - Applied on Indeed on 21 Oct, 2026
+- Technical Services Engineer – Field Division - Altex Industries Inc - Edmonton, AB - Applied on Indeed on 21 Oct, 2026
+- Project Engineer - Civil Tunnel Work (Expression of Interest) - JDS Energy & Mining Inc. - Kelowna, BC - Applied on Indeed on 21 Oct, 2026
+- Mechanical Engineer - Building Systems - Pivotal Engineering Ltd - Edmonton, AB - Applied on Indeed on 20 Oct, 2026
+- Product Design Engineer - MDT Sporting Goods Ltd. - Chilliwack, BC - Applied on Indeed on 20 Oct, 2026
+- Estimator / Applications Engineer - ALCO Inc. - Edmonton, AB - Applied on Indeed on 20 Oct, 2026
+- Senior/Intermediate Mechanical Engineer - Chorley + Bisset Ltd. - London, ON - Applied on Indeed on 20 Oct, 2026
+- Mechanical Project Manager - Probuilt Mechanical Plumbing and Heating - St. Albert, AB - Applied on Indeed on 20 Oct, 2026
+- Project Engineer - Thermo Design Engineering Ltd - Edmonton, AB - Applied on Indeed on 20 Oct, 2026
+- Project Engineer - ALCO Energy Solutions - Edmonton, AB - Applied on Indeed on 20 Oct, 2026
+- Mechanical Engineering with a P. Eng. designation from APEGA - UNIVERSAL HANDLING EQUIPMENT - Red Deer County, AB - Applied on Indeed on 20 Oct, 2026
+- Intermediate Mechanical Engineer - TRI Innovations - Calgary, AB - Applied on Indeed on 20 Oct, 2026
+- Mechanical Engineer - Green PI Inc. - Mississauga, ON - Applied on Indeed on 19 Oct, 2026
+- Mechanical Engineer - Mancor Industries - Royal Windsor Drive - Oakville, ON - Applied on Indeed on 19 Oct, 2026
+- Mechanical Engineer (MEP - Building Systems) - NIRO Consulting Group Inc. - Greater Toronto Area, ON - Applied on Indeed on 19 Oct, 2026
+- Engineering Manager - TMC Manufacturing Company - North Vancouver, BC - Applied on Indeed on 19 Oct, 2026
+- Mechanical Design Draftsperson - Thermo Design Engineering Ltd - Edmonton, AB - Applied on Indeed on 19 Oct, 2026
+- Mechanical Designer/Engineer - Sureway Metal Systems Ltd. - Calgary, AB - Applied on Indeed on 19 Oct, 2026
+- Mechanical Engineer - FYi Design Dept - Squamish, BC - Applied on Indeed on 19 Oct, 2026
+- Senior Engineer - Mining Products - AMI Attachments Inc - Hawkesville, ON - Applied on Indeed on 19 Oct, 2026
+- Embedded Firmware Engineer - Inspired Staffing Inc. - Richmond Hill, ON - Applied on Indeed on 19 Oct, 2026
+- Mechanical Engineer - Colt Automation - Mississauga, ON - Applied on Indeed on 17 Oct, 2026
+- Mechanical Design Engineer - Rex Power Magnetics - Concord, ON - Applied on Indeed on 17 Oct, 2026
+- Mechanical Design Engineer - Digital Shovel - Scarborough, ON - Applied on Indeed on Oct 16
+- Mechanical Engineer - AI Trainer - DataAnnotation - Etobicoke, ON - Applied on Indeed on Oct 16
+- Senior Hydraulic Engineer - Confidential - Toronto, ON - Applied on Indeed on Oct 16
+- Applications Engineering Associate - Legrand Group - Mississauga, ON - Applied on Indeed on Oct 15
+- Mechanical Design Engineer - DCL International Inc. - Maple, ON - Applied on Indeed on Oct 13
+- Mechanical Associate (Project Engineer) - BPA - Toronto, ON - Applied on Indeed on Oct 13
+- Mechanical Designer – HVAC & Building Systems - BPA - Toronto, ON - Applied on Indeed on Oct 13
+- Project Engineer (Testing) – Mechanical - Armstrong Fluid Technology - Toronto, ON - Applied on Indeed on Oct 12
+- Project Manager - KNVA MECHANICAL GROUP INC - Concord, ON - Applied on Indeed on Oct 11
+- Product Engineering Coordinator - Tayco - Etobicoke, ON - Applied on Indeed on Oct 11
+- Senior Mechanical Designer - Tandem Engineering Group - Windsor, ON - Applied on Indeed on Oct 11
+- Intermediate Mechanical Engineer - Saltworks Technologies - Richmond, BC - Applied on Indeed on Oct 11
+- Mechanical Designer - Deep Trekker Inc. - Kitchener, ON - Applied on Indeed on Oct 11
+- Automation Mechanical Designer - AIS Technologies Group - Oldcastle, ON - Applied on Indeed on Oct 11
+- Senior Mechanical Designer - ODL Doors - Woodbridge, ON - Applied on Indeed on Oct 11
+- Mechanical Engineering Lead - Ascension Automation Solutions Ltd. - Cambridge, ON - Applied on Indeed on Oct 11
+- Mechanical Design Engineer - Pack-Smart Inc. - Concord, ON - Applied on Indeed on Oct 11
+- Mechanical Design Engineer | New Zealand | Visa & Relocation Support - Vouch - Kitchener-Waterloo, ON - Applied on Indeed on Oct 11
+- Mechanical Building Engineer - BPA - Toronto, ON - Applied on Indeed on Oct 11
+- Mechanical Engineer - WalterFedy - Toronto, ON - Applied on Indeed on Oct 9
+- Hardware, Mechanical Engineer - Mecka - Richmond Hill, ON - Applied on Indeed on Oct 9
+- Intermediate Mechanical Engineer - EME Engineering Inc. - Vaughan, ON - Applied on Indeed on Oct 7
+- Mechanical Engineer - Ziyutec Inc. - Richmond Hill, ON - Applied on Indeed on Oct 7
