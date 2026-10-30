@@ -2,29 +2,30 @@
 
 Toronto, ON  
 nebojsajovanovic95@gmail.com | +1 647-896-6495  
-[LinkedIn](https://www.linkedin.com/in/nebojsa-jovanovic-9928306a/) | [GitHub](https://github.com/NebojsaJovanovic95)
+[LinkedIn](https://www.linkedin.com/in/NebojsaJovanovic95/) | [GitHub](https://github.com/NebojsaJovanovic95)
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-Mechanical Engineer with experience in large-scale industrial project execution, commissioning, systems completion, and handover coordination. Former Intermediate Mechanical Engineer at Hatch and Handover Coordinator with the Hatch-Bantrel Joint Venture (HBJV) on the Jansen Potash Project.
+Mechanical Engineer specializing in industrial project execution, systems completion, commissioning coordination, and project handover. Former Intermediate Mechanical Engineer at Hatch and Handover Coordinator with the Hatch-Bantrel Joint Venture (HBJV) on the Jansen Potash Project.
 
-Experienced in coordinating system handovers, preparing Handover Packages, Subsystem Test Packages, and Notices of Energization (NOEs), and managing project documentation and deliverables using SmartPlant Foundation, Smart Completions, and SharePoint.
+Experienced in coordinating construction turnover and systems handover, preparing Handover Packages, Subsystem Test Packages, and Notices of Energization (NOEs), and managing engineering documentation and project deliverables using SmartPlant Foundation, Smart Completions, and SharePoint.
 
-Combines practical engineering and commissioning experience with software development and automation skills, bringing a unique ability to improve project workflows, documentation processes, and digital systems supporting construction turnover and commissioning execution.
+Combines practical experience in large-scale engineering and commissioning environments with software development and automation capabilities. Brings a unique ability to bridge engineering execution, project information management, and digital workflow improvement.
 
 ## CORE COMPETENCIES
 
 - Systems Completion and Handover Coordination
 - Commissioning and Construction Turnover
+- Mechanical Completion and Completion Documentation
+- System and Subsystem Completion Workflows
 - Handover Packages and Subsystem Test Packages
 - Notices of Energization (NOEs)
-- Project Documentation and Deliverables Management
-- SmartPlant Foundation
-- Smart Completions
-- SharePoint
-- Engineering and Construction Coordination
+- Engineering Document Control and Deliverables Management
+- SmartPlant Foundation and Smart Completions
+- SharePoint and Project Information Management
+- Construction, Engineering and Commissioning Coordination
 - Workflow Automation and Process Improvement
 - Mechanical and Package Engineering
 - Industrial Automation and Real-Time Systems
@@ -38,13 +39,14 @@ Combines practical engineering and commissioning experience with software develo
 **Jansen Potash Project**
 
 - Worked within the HBJV commissioning team as a Handover Coordinator, supporting the transition of constructed systems into commissioning and ultimately operations.
-- Coordinated system handover activities and managed documentation and deliverables required for commissioning execution.
+- Coordinated system and subsystem handover activities and managed documentation and deliverables required to support commissioning execution.
 - Prepared Handover Packages, Subsystem Test Packages, and Notices of Energization (NOEs).
 - Coordinated information and deliverables across project, engineering, construction, and commissioning stakeholders.
-- Used SmartPlant Foundation, Smart Completions, and SharePoint to manage project information, documentation, and contractor deliverables.
-- Supported construction turnover and commissioning workflows by facilitating the preparation, organization, and transfer of system documentation.
+- Used SmartPlant Foundation, Smart Completions, and SharePoint to manage project information, engineering documentation, and contractor deliverables.
+- Supported construction turnover and commissioning workflows through the preparation, organization, review, and transfer of system documentation.
 - Developed automation for repetitive documentation workflows, including automated generation of NOE documents.
 - Identified opportunities to improve documentation processes and reduce repetitive administrative work through software automation.
+- Followed up on outstanding documentation and deliverables with project stakeholders to support system handover readiness and minimize delays to commissioning activities.
 
 #### Intermediate Mechanical Engineer / Software Developer
 **Hatch Ltd.**
@@ -61,27 +63,6 @@ Combines practical engineering and commissioning experience with software develo
 
 ## SELECTED PROJECT EXPERIENCE
 
-### Jansen Potash Project — Systems Handover and Commissioning
-**Hatch-Bantrel Joint Venture (HBJV)**
-
-- Supported commissioning execution through system handover coordination and documentation management.
-- Prepared Handover Packages, Subsystem Test Packages, and Notices of Energization.
-- Improved documentation workflows through automation, including automated NOE generation.
-- Used SmartPlant Foundation, Smart Completions, and SharePoint to manage project information and support contractor execution.
-
-### VISTA — Real-Time Energy Plant Operating System
-**Hatch**
-
-- Co-developed a real-time hydro energy plant operating and optimization platform using C++ and C#.
-- Implemented data ingestion and performance analysis functionality.
-- Maintained and modernized legacy software components supporting industrial control and operational systems.
-
-### Onaping — Computer Vision in Mining
-**Hatch**
-
-- Developed camera-based inspection and analysis solutions using Python and YOLO-based computer vision models.
-- Applied machine learning and edge computing technologies to industrial mining applications.
-
 ### VISP — Computer Vision Platform on Edge Devices
 **Personal Project**
 
@@ -92,7 +73,7 @@ Combines practical engineering and commissioning experience with software develo
 ## TECHNICAL SKILLS
 
 **Systems Completion and Project Execution:**  
-Systems Handover, Commissioning Coordination, Construction Turnover, Handover Documentation, Subsystem Test Packages, Notices of Energization, Project Documentation Management.
+Systems Completion, Systems Handover, Commissioning Coordination, Construction Turnover, Mechanical Completion, Handover Documentation, Subsystem Test Packages, Notices of Energization, Project Documentation Management.
 
 **Engineering and Industrial Systems:**  
 Mechanical Engineering, Package Engineering, Systems Design, Industrial Automation, Control Systems, Real-Time Data Systems, Edge Computing.
