@@ -27,6 +27,7 @@ $(HTML): $(MD) $(CSS) $(HEAD)
 $(PDF): $(HTML)
 	$(CHROME) \
 		--headless \
+		--no-pdf-header-footer \
 		--print-to-pdf=$(PDF) \
 		$(HTML)
 
