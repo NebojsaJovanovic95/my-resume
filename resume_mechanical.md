@@ -2,7 +2,7 @@
 
 Toronto, ON  
 nebojsajovanovic95@gmail.com | +1 647-896-6495  
-[LinkedIn](https://www.linkedin.com/in/NebojsaJovanovic95/) | [GitHub](https://github.com/NebojsaJovanovic95)
+[LinkedIn](https://www.linkedin.com/in/nebojsa-jovanovic-9928306a/) | [GitHub](https://github.com/NebojsaJovanovic95)
 
 ---
 
@@ -95,9 +95,6 @@ AutoCAD, SolidWorks, Autodesk Inventor, Microsoft Excel, Microsoft Project.
 
 **Industrial and Software Technologies:**  
 Industrial Automation, Control Systems, Real-Time Data Systems, Edge Computing, C, C++, C#, Python, Go, JavaScript, TypeScript, SQL, Linux, Docker, Kubernetes.
-
-**Frameworks and Databases:**  
-Flask, Django, Angular, PyTorch, CUDA, PostgreSQL, MongoDB, SQLite.
 
 **Frameworks and Databases:**  
 Flask, Django, Angular, PyTorch, CUDA, PostgreSQL, MongoDB, SQLite.
